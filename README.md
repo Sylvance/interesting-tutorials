@@ -14,3 +14,7 @@ This is a curated list of tutorials online that I have or will find interesting.
 ## Ruby
 ### Tips & tricks
 - [21 Ruby Tricks You Should Be Using In Your Own Code](http://www.rubyinside.com/21-ruby-tricks-902.html)
+
+## Jquery
+### Create your own jquery
+- [How to write a jQuery like library in 71 lines of code — Learn about the DOM](https://medium.freecodecamp.org/how-to-write-a-jquery-like-library-in-71-lines-of-code-learn-about-the-dom-e9fb99dbc8d2)
