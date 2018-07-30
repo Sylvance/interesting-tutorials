@@ -22,3 +22,6 @@ This is a curated list of tutorials online that I have or will find interesting.
 ## Javascript
 ### Visual aid
 - [JavaScript Array Explorer](https://sdras.github.io/array-explorer/)
+### Writing your own lexer
+- [Create a basic lexer with JavaScript](http://www.thinksincode.com/2016/10/30/create-a-basic-lexer.html)
+- [Hand-written lexer in Javascript compared to the regex-based ones](https://eli.thegreenplace.net/2013/07/16/hand-written-lexer-in-javascript-compared-to-the-regex-based-ones)
