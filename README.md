@@ -15,6 +15,10 @@ This is a curated list of tutorials online that I have or will find interesting.
 ### Tips & tricks
 - [21 Ruby Tricks You Should Be Using In Your Own Code](http://www.rubyinside.com/21-ruby-tricks-902.html)
 
+## Ruby on Rails
+### API Authentication
+- [How to Use JWT Authentication in a Rails 5 API App](http://www.dailysmarty.com/posts/how-to-use-jwt-authentication-in-a-rails-5-api-app)
+
 ## Jquery
 ### Create your own jquery
 - [How to write a jQuery like library in 71 lines of code — Learn about the DOM](https://medium.freecodecamp.org/how-to-write-a-jquery-like-library-in-71-lines-of-code-learn-about-the-dom-e9fb99dbc8d2)
